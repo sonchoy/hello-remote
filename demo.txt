@@ -3,3 +3,4 @@ Will be pushed to remote repository. Edited with VScode.
 Now edited in GitHub.
 2nd edit from Github.
 Again edit from VScode
+But will be pushed from git commandline
